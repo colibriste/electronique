@@ -95,9 +95,15 @@ Si on veut eteindre les led, on assigne la couleur noire à une led
 
 Il s'agit d'un programme basique, fournit par le logiciel arduino, qui fait clignoter une led verte présente sur la carte arduino (une led intégrée à la carte, donc besoin d'aucun matériel pour tester)
 
-On trouve le code dans "fichier/exemples:basics/blink" via le logiciel arduino, et sinon il e
+On trouve le code dans "fichier/exemples:basics/blink" via le logiciel arduino
 
 La led L doit clignoter
+
+
+**Exemple 2 : 2_leds.ino**
+
+L'idée est de comprendre comment allumer les leds de la guirlande indépendamment chacunes. On utilise la librairie Adafruit_NeoPixel.h, qu'il faut inclure dans le programme. Elle est dans le dossier resources si besoin.
+
 
 
 
