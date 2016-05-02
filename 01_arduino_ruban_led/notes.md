@@ -105,6 +105,11 @@ La led L doit clignoter
 L'idée est de comprendre comment allumer les leds de la guirlande indépendamment chacunes. On utilise la librairie Adafruit_NeoPixel.h, qu'il faut inclure dans le programme. Elle est dans le dossier resources si besoin.
 
 
+**Exemple 3 : final.ino**
+
+Code qui illumine la guirlande entière avec de jolis effets
+
+
 
 
 
